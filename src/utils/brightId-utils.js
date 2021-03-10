@@ -1,4 +1,4 @@
-import ethers from 'ethers'
+import * as ethers from 'ethers'
 import { soliditySha3 } from '../lib/web3-utils'
 export const BRIGHT_ID_CONTEXT = '1hive'
 export const BRIGHT_ID_CONTEXT_BYTES =
